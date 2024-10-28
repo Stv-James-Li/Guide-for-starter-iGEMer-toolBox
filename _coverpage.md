@@ -9,4 +9,4 @@
 
 
 [开始使用](/chinese/start.md)
-[English Ver.(building)](/README.md)
+[English Ver.(building)](/)
