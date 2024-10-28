@@ -2,6 +2,7 @@
 * [你是否适合iGEM](/chinese/suit.md)
 * **快速入门指南：我要干什么？**
 * [选题（需要更新）](/chinese/topic.md)
+* [安全（等待建设）](/chinese/safety.md)
 * [建模（需要更新）](/chinese/model.md)
 * [实验（需要更新）](/chinese/experiment.md)
 * [HP（需要更新）](/chinese/hp.md)
