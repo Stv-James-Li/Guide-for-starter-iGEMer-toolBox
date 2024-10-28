@@ -1,4 +1,5 @@
 * [前言](/chinese/start.md)
+* [标准化示例文档](/chinese/start.md)
 * [关于](/chinese/about.md)
 * [你是否适合iGEM](/chinese/suit.md)
 * **快速入门指南：我要干什么？**
