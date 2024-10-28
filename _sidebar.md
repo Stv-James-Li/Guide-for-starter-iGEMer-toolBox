@@ -1,20 +1,20 @@
 * [前言](/chinese/start.md)
-* [你是否适合iGEM](/chinese/okornot.md)
+* [你是否适合iGEM](/chinese/suit.md)
 * **快速入门指南：我要干什么？**
 * [选题（需要更新）](/chinese/topic.md)
 * [建模（需要更新）](/chinese/model.md)
 * [实验（需要更新）](/chinese/experiment.md)
 * [HP（需要更新）](/chinese/hp.md)
-* [Promotion Video, Presentation Video, wiki（需要更新）](/chinese/ppv.md)
+* [Promotion Video, Presentation Video, wiki（需要更新）](/chinese/deliverables.md)
 * **常用工具与小技巧**
-* [通用（需要更新）](/chinese/general.md)
-* [建模和实验设计相关（需要更新）](/chinese/aboutmodel.md)
-* [实验相关（需要更新）](/chinese/aboutexperiment.md)
-* [wiki&video（需要更新）](/chinese/WV.md)
-* [实验指南（等待建设）](/chinese/guide.md)
+* [通用（需要更新）](/chinese/tools-general.md)
+* [建模和实验设计相关（需要更新）](/chinese/tools-model.md)
+* [实验相关（需要更新）](/chinese/tools-experiment.md)
+* [wiki&video（需要更新）](/chinese/tools-WV.md)
+* [实验指南（等待建设）]()
 * **其它**
 * [如何告诉我们错误或提交补充（需要更新）](/chinese/contri.md)
 * [更新日志](/chinese/update.md)
 * **其它链接**
 * [小L的个人博客](https://blog.nebulatown.com/)
-* [合成生物学实验入门指南（正在建设）](https:)
+* [合成生物学实验入门指南（正在建设）]()
