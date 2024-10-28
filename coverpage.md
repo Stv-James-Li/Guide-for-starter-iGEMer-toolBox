@@ -2,7 +2,7 @@
 
 # 给高中iGEMer的快速入门指南与工具速查表
 
-> 由Lejun(James) Li发起并撰写，BNDS-China维护
+> 由Lejun(James) Li发起，BNDS-China维护
 
 - 由经验丰富的iGEMer撰写的干货
 - 真正的经验结晶
