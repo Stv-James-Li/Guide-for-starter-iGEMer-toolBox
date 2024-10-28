@@ -2,12 +2,16 @@
 
 在PR时，请您将您的昵称留在贡献者名单页中，否则我们将默认为匿名贡献。再次感谢您的贡献。
 
-贡献者名单
+**维护&核心编辑者**
 
-Lejun(James) Li
+*Lejun(James) Li*
 From BJEA_China 2023, BNDS-China 2024
 
-Yonghan Yang
-From BNDS-China 2024   
+*Yonghan Yang*
+From BNDS-China 2024  
+
+**贡献者名单** 
+
+*BJEA-China 2023*
 
 Special thanks to all iGEMers.
