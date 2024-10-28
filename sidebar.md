@@ -1,4 +1,5 @@
 * [前言](/chinese/start.md)
+* [关于](/chinese/about.md)
 * [你是否适合iGEM](/chinese/suit.md)
 * **快速入门指南：我要干什么？**
 * [选题（需要更新）](/chinese/topic.md)
