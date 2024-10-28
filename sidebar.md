@@ -12,10 +12,9 @@
 * [建模和实验设计相关（需要更新）](/chinese/tools-model.md)
 * [实验相关（需要更新）](/chinese/tools-experiment.md)
 * [wiki&video（需要更新）](/chinese/tools-WV.md)
-* [实验指南（等待建设）](/)
+* [合成生物学实验入门指南（正在建设）](/chinese/intro-to-experiment.md)
 * **其它**
 * [如何告诉我们错误或提交补充（需要更新）](/chinese/contri.md)
 * [更新日志](/chinese/update.md)
 * **其它链接**
 * [小L的个人博客](https://blog.nebulatown.com/)
-* [合成生物学实验入门指南（正在建设）](/)
