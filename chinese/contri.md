@@ -5,13 +5,19 @@
 **维护&核心编辑者**
 
 *Lejun(James) Li*
+
 From BJEA_China 2023, BNDS-China 2024
 
 *Yonghan Yang*
+
 From BNDS-China 2024  
 
 **贡献者名单** 
 
 *BJEA-China 2023*
+
+*BNDS-China 2024*
+
+*BNDS-China 2025*
 
 Special thanks to all iGEMers.
